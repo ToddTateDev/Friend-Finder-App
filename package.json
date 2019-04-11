@@ -14,12 +14,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ToddTateDev/FriendFinder.git"
+    "url": "git+https://github.com/ToddTateDev/Friend-Finder-App.git"
   },
   "author": "Todd Tate",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/ToddTateDev/FriendFinder/issues"
+    "url": "https://github.com/ToddTateDev/Friend-Finder-App/issues"
   },
-  "homepage": "https://github.com/ToddTateDev/FriendFinder#readme"
+  "homepage": "https://github.com/ToddTateDev/Friend-Finder-App#readme"
 }
